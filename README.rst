@@ -86,6 +86,10 @@ To run behave web tests in an iOS device:
 
     $ behave web_behave/features/login.feature -D Config_environment=ios
 
+**web_pytest**
+
+....
+
 **android_behave**
 
 To run behave Android tests:

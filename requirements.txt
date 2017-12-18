@@ -5,4 +5,4 @@ behave         # behave tests
 behave-pytest  # pytest assertions in behave tests
 pytest==2.9.2  # behave-pytest is not compatible with pytest 3
 lettuce        # lettuce tests
-needle==0.4.1  # visual testing
+#needle==0.5.0  # visual testing
